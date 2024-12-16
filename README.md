@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Tesla Tweets Analysis</title>
-</head>
 <body>
     <h2>Tesla Tweets Analysis</h2>
     <p>
